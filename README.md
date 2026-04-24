@@ -4,4 +4,4 @@
 
 ![image](./attachments/PCB.png)
 
-![image](./attachments/StarrySky_Back.png)
+![image](./attachments/StarrySky_Back.jpg)
